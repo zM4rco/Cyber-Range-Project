@@ -1,0 +1,5 @@
+Stage 0 - Risk Assessment, Legislations and Risk Appetite
+Stage 1 - Planning: Gantt Chart, Project Scope, Deliverables
+Stage 2 - Design: Topologies, Network Devices, Components, Technologies, Protocols, Data Types, Network Zones
+Stage 3 - Implementation: Screenshots, Network Setup, 
+Stage 4 - Pen testing: 5 attack scenarios with screenshots, post-risk assessment, risk mitigation or recommendations
